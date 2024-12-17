@@ -7,7 +7,8 @@
 - 🎓 **B.Tech CSIT** student at **KIET Group of Institutions**  
 - 💻 Exploring **Web Development** and diving into the world of **AI/ML**  
 - 🔧 Skilled in **Frontend Development** 
-
+- ⚡ Excited to explore Hackathons and collaborate on innovative projects!
+  
 ---
 
 ## 🛠️ **Languages & Frameworks**  
@@ -32,8 +33,13 @@
 
 ---
 
-📫 **Connect With Me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanakverma19)
+## 🌐 **Connect With Me**  
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanakverma19)  
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Kanak4257)  
+  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kanakverma325)  
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/kanak19)
+</p>
 
 ---
 
