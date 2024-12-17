@@ -50,8 +50,6 @@
 </p>
 
 
-
-
 ---
 
 ⭐ **Fun Fact:** "I’m passionate about exploring new technologies and collaborating on innovative projects!"  
