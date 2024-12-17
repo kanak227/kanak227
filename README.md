@@ -35,11 +35,21 @@
 
 ## 🌐 **Connect With Me**  
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanakverma19)  
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Kanak4257)  
-  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kanakverma325)  
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/kanak19)
+  <a href="https://www.linkedin.com/in/kanakverma19">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://twitter.com/Kanak4257">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="50" height="50"/>
+  </a>
+  <a href="https://www.hackerrank.com/kanakverma325">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" width="50" height="50"/>
+  </a>
+  <a href="https://leetcode.com/kanak19">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" width="50" height="50"/>
+  </a>
 </p>
+
+
 
 ---
 
