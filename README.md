@@ -82,6 +82,22 @@
   </a>
 </p>
 
+## 🌐 **Connect With Me**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanakverma19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
+
 ---
 
 ⭐ **Fun Fact:** "I’m passionate about exploring new technologies and collaborating on innovative projects!"  
