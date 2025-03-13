@@ -1,8 +1,11 @@
 # Hey, I’m Kanak! 👋
 
-<img src="./images/Hand coding-bro.png" width="32%" alt="vector" align="right">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front-end-Developer+🧑‍💻;ML+Learner🧠;Problem+Solver+🔨;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front-end-Developer+🧑‍💻;ML+Learner🧠;Problem+Solver+🔨;)](https://git.io/typing-svg)
+</div>
+
+
 
 <img height=0 width=0 src="https://komarev.com/ghpvc/?username=kanak227&style=flat-square&color=blue" alt="Profile views"/>
 
