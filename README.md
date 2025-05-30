@@ -5,7 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front-end-Developer+🧑‍💻;ML+Learner🧠;Problem+Solver+🔨;)](https://git.io/typing-svg)
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=kanak227)
 
 <img height=0 width=0 src="https://komarev.com/ghpvc/?username=kanak227&style=flat-square&color=blue" alt="Profile views"/>
 
