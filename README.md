@@ -7,8 +7,6 @@
 
 ![](https://komarev.com/ghpvc/?username=kanak227)
 
-<img height=0 width=0 src="https://komarev.com/ghpvc/?username=kanak227&style=flat-square&color=blue" alt="Profile views"/>
-
 <div align="left">
 
 👀 Passionate about Software Development & Machine Learning  
