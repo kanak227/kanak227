@@ -76,8 +76,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanak227&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)](https://github.com/kanak227?tab=repositories)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanak227&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)]
 
 ![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanak227&count_private=true&show_icons=true&theme=tokyonight)
 
