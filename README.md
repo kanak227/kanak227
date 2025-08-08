@@ -22,7 +22,7 @@ Most days, you’ll find me:
 
 ### 🛠 My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,python,typescript,html,css,javascript,redux,git,github,vscode,figma,postgresql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,python,typescript,html,mysql,css,javascript,redux,git,linux,figma,postgresql" />
 </p>
 
 ### 🐍 Python & AI Tools
